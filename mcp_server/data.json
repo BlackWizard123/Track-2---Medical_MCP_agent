@@ -1,0 +1,132 @@
+{
+  "dengue": {
+    "info": {
+      "symptoms": ["high fever", "severe headache", "pain behind eyes", "joint and muscle pain", "skin rash", "mild bleeding from nose or gums"],
+      "precautions": ["use mosquito repellent", "wear full-sleeve clothes", "use mosquito nets", "eliminate standing water around home"],
+      "severity": "moderate to severe",
+      "transmission": "bite of infected Aedes mosquito"
+    },
+    "remedy": {
+      "remedies": ["drink plenty of fluids and ORS", "take paracetamol for fever", "complete bed rest", "eat papaya leaf extract to boost platelets"],
+      "medications_to_avoid": ["aspirin", "ibuprofen"],
+      "when_to_see_doctor": "immediately if bleeding occurs, platelet count drops, or fever persists more than 2 days"
+    }
+  },
+  "malaria": {
+    "info": {
+      "symptoms": ["cyclical fever and chills", "sweating", "headache", "nausea and vomiting", "muscle pain", "fatigue"],
+      "precautions": ["sleep under insecticide-treated nets", "use mosquito repellent", "avoid outdoor activity at dusk and dawn", "take prophylactic medication when traveling"],
+      "severity": "moderate to life-threatening",
+      "transmission": "bite of infected Anopheles mosquito"
+    },
+    "remedy": {
+      "remedies": ["take prescribed antimalarial drugs (chloroquine or artemisinin)", "complete full course of medication", "rest and stay hydrated", "cool compresses for fever"],
+      "medications_to_avoid": ["self-medicating without diagnosis"],
+      "when_to_see_doctor": "immediately — malaria requires prescription medication and blood test confirmation"
+    }
+  },
+  "typhoid": {
+    "info": {
+      "symptoms": ["sustained high fever", "weakness", "stomach pain", "headache", "loss of appetite", "rose-colored spots on chest"],
+      "precautions": ["drink only boiled or purified water", "eat freshly cooked food", "wash hands frequently", "get typhoid vaccine"],
+      "severity": "moderate to severe",
+      "transmission": "contaminated food and water"
+    },
+    "remedy": {
+      "remedies": ["take prescribed antibiotics (ciprofloxacin or azithromycin)", "drink plenty of fluids", "eat soft easily digestible food", "complete full antibiotic course"],
+      "medications_to_avoid": ["stopping antibiotics early"],
+      "when_to_see_doctor": "immediately — requires antibiotic prescription and stool/blood test"
+    }
+  },
+  "covid19": {
+    "info": {
+      "symptoms": ["fever or chills", "dry cough", "shortness of breath", "fatigue", "loss of taste or smell", "sore throat", "body aches"],
+      "precautions": ["wear mask in crowded places", "wash hands regularly", "maintain social distance", "get vaccinated", "ventilate indoor spaces"],
+      "severity": "mild to critical",
+      "transmission": "respiratory droplets and aerosols from infected person"
+    },
+    "remedy": {
+      "remedies": ["isolate at home for mild cases", "rest and stay hydrated", "take paracetamol for fever", "monitor oxygen levels with pulse oximeter"],
+      "medications_to_avoid": ["antibiotics unless prescribed for secondary infection"],
+      "when_to_see_doctor": "immediately if oxygen level drops below 94%, breathing difficulty, or chest pain"
+    }
+  },
+  "diabetes": {
+    "info": {
+      "symptoms": ["frequent urination", "excessive thirst", "unexplained weight loss", "blurred vision", "slow healing wounds", "tingling in hands or feet"],
+      "precautions": ["maintain healthy weight", "exercise regularly", "eat low sugar and low glycemic foods", "monitor blood sugar levels", "avoid smoking"],
+      "severity": "chronic — manageable but not curable",
+      "transmission": "non-communicable — genetic and lifestyle factors"
+    },
+    "remedy": {
+      "remedies": ["follow prescribed insulin or oral medication regimen", "low carb balanced diet", "regular physical exercise", "regular blood sugar monitoring", "foot care and eye checkups"],
+      "medications_to_avoid": ["steroids and sugary supplements unless supervised"],
+      "when_to_see_doctor": "regularly every 3 months, or immediately if blood sugar is extremely high or low"
+    }
+  },
+  "hypertension": {
+    "info": {
+      "symptoms": ["often no symptoms (silent killer)", "headache", "dizziness", "blurred vision", "chest pain", "shortness of breath"],
+      "precautions": ["reduce salt intake", "exercise regularly", "maintain healthy weight", "limit alcohol", "quit smoking", "manage stress"],
+      "severity": "chronic — can lead to stroke or heart attack if unmanaged",
+      "transmission": "non-communicable — lifestyle and genetic factors"
+    },
+    "remedy": {
+      "remedies": ["take prescribed antihypertensive medication daily", "DASH diet (fruits, vegetables, low sodium)", "30 minutes of moderate exercise daily", "reduce caffeine and alcohol"],
+      "medications_to_avoid": ["NSAIDs like ibuprofen which raise blood pressure"],
+      "when_to_see_doctor": "immediately if BP is above 180/120, or if chest pain or vision loss occurs"
+    }
+  },
+  "tuberculosis": {
+    "info": {
+      "symptoms": ["persistent cough for 3+ weeks", "coughing up blood", "chest pain", "unintentional weight loss", "night sweats", "fever", "fatigue"],
+      "precautions": ["complete full TB treatment course", "cover mouth when coughing", "ventilate living spaces", "get BCG vaccine", "avoid close contact with active TB patients"],
+      "severity": "serious — contagious and potentially fatal if untreated",
+      "transmission": "airborne droplets from cough or sneeze of infected person"
+    },
+    "remedy": {
+      "remedies": ["strictly follow DOTS (Directly Observed Treatment Short-course)", "take all 4 antibiotics as prescribed for 6 months", "nutritious high protein diet", "rest and avoid smoking"],
+      "medications_to_avoid": ["stopping treatment early causes drug-resistant TB"],
+      "when_to_see_doctor": "immediately — TB requires sputum test and prescription treatment"
+    }
+  },
+  "chickenpox": {
+    "info": {
+      "symptoms": ["itchy red blisters all over body", "fever", "tiredness", "loss of appetite", "headache"],
+      "precautions": ["get varicella vaccine", "avoid contact with infected persons", "do not share personal items", "keep nails trimmed to prevent scratching"],
+      "severity": "mild in children, moderate to severe in adults",
+      "transmission": "highly contagious via air and direct contact with blisters"
+    },
+    "remedy": {
+      "remedies": ["calamine lotion for itching", "paracetamol for fever", "trim nails and avoid scratching", "wear loose cotton clothes", "oatmeal baths for relief"],
+      "medications_to_avoid": ["aspirin in children (risk of Reye syndrome)", "ibuprofen"],
+      "when_to_see_doctor": "if blisters get infected, high fever persists, or adult with no prior immunity"
+    }
+  },
+  "asthma": {
+    "info": {
+      "symptoms": ["wheezing", "shortness of breath", "chest tightness", "coughing especially at night", "difficulty exercising"],
+      "precautions": ["avoid known triggers (dust, pollen, smoke)", "use air purifiers", "keep home dust-free", "avoid cold air exposure", "do not smoke"],
+      "severity": "chronic — ranges from mild to life-threatening attacks",
+      "transmission": "non-communicable — allergic and environmental triggers"
+    },
+    "remedy": {
+      "remedies": ["use prescribed inhaler (bronchodilator) during attacks", "take controller medications daily", "identify and avoid personal triggers", "practice breathing exercises"],
+      "medications_to_avoid": ["beta-blockers", "aspirin and NSAIDs in aspirin-sensitive asthma"],
+      "when_to_see_doctor": "immediately during severe attack where inhaler gives no relief"
+    }
+  },
+  "food_poisoning": {
+    "info": {
+      "symptoms": ["nausea", "vomiting", "diarrhea", "stomach cramps", "fever", "weakness"],
+      "precautions": ["wash hands before eating", "cook food to safe temperatures", "refrigerate perishables promptly", "avoid raw or undercooked meat", "drink clean water"],
+      "severity": "mild to moderate, severe in elderly and children",
+      "transmission": "contaminated food or water with bacteria, viruses, or toxins"
+    },
+    "remedy": {
+      "remedies": ["drink ORS frequently to prevent dehydration", "eat bland food like rice and bananas (BRAT diet)", "rest", "avoid dairy and spicy food until recovered"],
+      "medications_to_avoid": ["anti-diarrheal drugs unless prescribed — they can trap toxins"],
+      "when_to_see_doctor": "if vomiting persists over 24 hours, blood in stool, high fever, or signs of dehydration"
+    }
+  }
+}
