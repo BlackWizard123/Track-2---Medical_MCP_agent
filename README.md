@@ -88,8 +88,13 @@ There is also a growing need for AI agents that can connect to structured medica
 └─────────────────────────────────────────────────────────┘
 ```
 ---
+## ⚙️ Process Flow diagram
 
-### ⚙️Sample Output
+<img width="711" height="471" alt="Untitled Diagram drawio111" src="https://github.com/user-attachments/assets/1c1bc4e2-dcbc-4342-87ef-5602fb28395f" />
+
+---
+
+## ⚙️ Sample Output
 
 URL (Chat UI Endpoint):  https://medical-agent-1059652519537.us-central1.run.app/chat
 
