@@ -1,9 +1,9 @@
-FROM python:3.10
-
+FROM python:3.12-slim
 WORKDIR /app
-
-COPY . .
-
-RUN pip install -r requirements.txt
-
-CMD ["uvicorn", "mcp_server.main:app", "--host", "0.0.0.0", "--port", "8080"]
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY agents/ ./agents/
+COPY mcp_server/ ./mcp_server/
+COPY static/ ./static/
+EXPOSE 8080
+CMD ["uvicorn", "agents.main:app", "--host", "0.0.0.0", "--port", "8080"]

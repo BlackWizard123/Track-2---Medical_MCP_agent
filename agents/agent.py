@@ -22,7 +22,7 @@ def build_agent():
     # mcp_tools = McpToolset(url="http://127.0.0.1:8000")
     mcp_tools = MCPToolset(
         connection_params=StreamableHTTPConnectionParams(
-            url=MCP_SERVER_URL
+            url=MCP_SERVER_URL,
         )
     )
 
