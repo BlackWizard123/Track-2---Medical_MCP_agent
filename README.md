@@ -1,3 +1,5 @@
+<img width="2133" height="752" alt="heroDesktopBgV2" src="https://github.com/user-attachments/assets/951af94f-ad77-4d39-9972-5762b437c8e5" />
+
 # Track 2 - Connect AI agents to real-world data and tools using Model Context Protocol (MCP)
 
 # 🏥 MediChat — AI Medical Assistant Agent
@@ -85,6 +87,17 @@ There is also a growing need for AI agents that can connect to structured medica
 │   └──────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────┘
 ```
+---
+
+### ⚙️Sample Output
+
+URL (Chat UI Endpoint):  https://medical-agent-1059652519537.us-central1.run.app/chat
+
+<img width="1920" height="912" alt="c8e647bf-c490-4eed-a126-f651b3da7dfe" src="https://github.com/user-attachments/assets/19a0e653-f12b-401f-8529-ebca0e553f33" />
+
+<img width="1920" height="1290" alt="2d823b2a-e28a-4026-9da7-943f51e0eeda" src="https://github.com/user-attachments/assets/ef620398-52da-4aa2-821a-c7f824c8012a" />
+
+---
 
 ### ⚙️ How It Works
 
