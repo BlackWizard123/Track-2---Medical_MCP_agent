@@ -12,6 +12,8 @@
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-Deployed-blue?logo=googlecloud)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-purple)
 
+### Demo video link : https://www.youtube.com/watch?v=iKU3fvNT9TM 
+
 ---
 
 ## Section 1 — Problem Statement & Solution
